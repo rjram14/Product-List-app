@@ -18,7 +18,7 @@ src/index.js is the JavaScript entry point.
 You can delete or rename the other files.
 
 You may create subdirectories inside src. For faster rebuilds, only files inside src are processed by Webpack.
-You need to put any JS and CSS files inside src, or Webpack won’t see them.
+You need to put any JS and CSS files inside src
 
 Only files inside public can be used from public/index.html.
 Read instructions below for using assets from JavaScript and HTML.
@@ -31,7 +31,7 @@ They will not be included in the production build so you can use them for things
 Available Scripts
 In the project directory, you can run:
 
-npm start
+npm start or yarn start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
